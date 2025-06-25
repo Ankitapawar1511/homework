@@ -30,22 +30,5 @@ per=s.per()
 print(f"per:{per}%")
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    #    def dis(self):
-    #         print(f"name is:{self.name}\n salary is:{self.roll}\n email is:{self.sub}")
      
       
